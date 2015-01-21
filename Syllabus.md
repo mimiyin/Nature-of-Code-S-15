@@ -1,13 +1,14 @@
 The Nature of Code (Spring 2014)
 ================================
 
-Key info
---------
+Class Info
+----------
 * Mimi Yin: mimi.yin@nyu.edu
 * Mondays, 12:10pm to 3:05pm in Room 20
 * [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
+* [Sign up for Mailing List](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
 
-Key Links
+Resources
 ---------
 * [All coures videos](http://video.natureofcode.com/)
 * [Online textbook](http://natureofcode.com/book/)
@@ -23,10 +24,6 @@ Related Reading and Watching
 * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1435457331/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1435457331&linkCode=as2&tag=learniproces-20)
 * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20)
 * [Form and Code](http://formandcode.com/)
-
-Mailing List
-------------
-- [Sign up here](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
 
 Week 1 - Introduction - 1/26/14
 -------------------------------
@@ -59,7 +56,7 @@ Week 2 - Oscillation - 2/2/14
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
-* Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-3).
+* Assignment: TBD
 * Supplemental reading
     * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
@@ -71,7 +68,7 @@ Week 3 - Forces - 2/9/14
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-2).
+* Assignment: * Assignment: TBD
 * Supplemental Reading
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
@@ -85,7 +82,7 @@ Week 4 - Systems - 2/23/14
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
-* Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-4).
+* Assignment: * Assignment: TBD
 * Supplemental Reading
     * ["Particle animation and rendering using data parallel computation", Karl Sims](http://doi.acm.org/10.1145/97879.97923) (available via NYU network/proxy)
     * ["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves](http://doi.acm.org/10.1145/357318.357320) (available via NYU network/proxy)
@@ -126,7 +123,8 @@ Week 6 - Physics Libraries - 3/9/14
     * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
-* Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-5).
+* Assignment: TBD
+
 
 ### No class, 3/16/14, Spring Break
 
@@ -177,7 +175,7 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/14
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
 * p5.js examples coming soon
-* [Final Project Proposal Schedule](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals)
+* Final Project Proposal Schedule: TBD
 
 Week 11 - User Testing Week - 4/20/14
 -------------------------------------
