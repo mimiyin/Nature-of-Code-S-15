@@ -34,12 +34,6 @@ Week 1 - Introduction - 1/26/14
 * Class Intro / Overview
     * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
 * [Processing](http://www.processing.org) review
-* [p5.js Discussion](https://github.com/lmccart/p5.js)
-    * [Eloquent JavaScript A Modern Introduction to Programming by Marijn Haverbeke](http://eloquentjavascript.net/)
-    * [Object-Oriented JavaScript](http://www.objectplayground.com/)
-* Github
-    * [Introduction to Git & the Command Line by Steve Klise](http://skli.se/2012/09/22/introduction-to-git/)
-    * [Git workflow beginner by Steve Klise](http://skli.se/2012/10/07/git-workflow-beginner/)
 * Randomness, Probability, and Perlin Noise
     * [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
     * [Videos I.1 - I.5](http://video.natureofcode.com/i.1/)
@@ -48,7 +42,6 @@ Week 1 - Introduction - 1/26/14
 * Object Oriented Programming Review & Vectors
     * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
     * [Videos 1.1 - 1.6](http://video.natureofcode.com/1.1/)
-    * Note the above videos will be screened Thursday, Jan 30th in room 15 from 1-2pm.  Mimi Yin is working on a video annotation project and will be using this session user testing (and also available to answer your questions about vectors!)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp1_vectors)
     * p5.js examples coming soon
 * Assignment
@@ -59,8 +52,20 @@ Week 1 - Introduction - 1/26/14
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
     * [Probability Theory](http://www.probabilitytheory.info/)
 
+Week 2 - Oscillation - 2/2/14
+-------------------------------
+* [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
+* [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
+* [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
+* Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-3).
+* Supplemental reading
+    * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
+    * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
+    * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
 
-Week 2 - Forces - 2/2/14
+Week 3 - Forces - 2/9/14
 ------------------------
 * [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
@@ -72,20 +77,7 @@ Week 2 - Forces - 2/2/14
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
 
-Week 3 - Oscillation - 2/9/14
--------------------------------
-* [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
-* [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
-* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
-* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
-* [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
-* Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-3).
-* Supplemental reading
-    * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
-    * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
-    * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4  
-
-### No class, 2/17/14, Presidents Day
+### No class, 2/16/14, Presidents Day
 
 Week 4 - Systems - 2/23/14
 -------------------------------
@@ -101,7 +93,19 @@ Week 4 - Systems - 2/23/14
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
     * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
-Week 5 - Physics Libraries - 3/2/14
+Week 5 - Autonomous Agents - 3/2/14
+-----------------------------------
+* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp6_agents)
+* [Videos 6.1 - 6.8](http://video.natureofcode.com/6.1/)
+* p5.js examples coming soon
+* Related
+    * [Reas Process Compendium](https://vimeo.com/22955812)
+    * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
+    * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
+* Your midterm project is due next class.  Guidelines: https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm
+
+Week 6 - Physics Libraries - 3/9/14
 -----------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
@@ -123,19 +127,6 @@ Week 5 - Physics Libraries - 3/2/14
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 * Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-5).
-
-
-Week 6 - Autonomous Agents - 3/9/14
------------------------------------
-* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
-* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp6_agents)
-* [Videos 6.1 - 6.8](http://video.natureofcode.com/6.1/)
-* p5.js examples coming soon
-* Related
-    * [Reas Process Compendium](https://vimeo.com/22955812)
-    * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
-    * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
-* Your midterm project is due next class.  Guidelines: https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm
 
 ### No class, 3/16/14, Spring Break
 
