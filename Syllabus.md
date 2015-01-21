@@ -68,7 +68,7 @@ Week 3 - Forces - 2/9/14
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* Assignment: * Assignment: TBD
+* Assignment: TBD
 * Supplemental Reading
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
@@ -82,7 +82,7 @@ Week 4 - Systems - 2/23/14
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
-* Assignment: * Assignment: TBD
+* Assignment: TBD
 * Supplemental Reading
     * ["Particle animation and rendering using data parallel computation", Karl Sims](http://doi.acm.org/10.1145/97879.97923) (available via NYU network/proxy)
     * ["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves](http://doi.acm.org/10.1145/357318.357320) (available via NYU network/proxy)
