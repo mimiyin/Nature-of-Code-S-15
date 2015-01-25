@@ -100,6 +100,7 @@ Week 5 - Autonomous Agents - 3/2/14
     * [Reas Process Compendium](https://vimeo.com/22955812)
     * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
     * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
+    * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 * Your midterm project is due next class.  Guidelines: https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm
 
 Week 6 - Physics Libraries - 3/9/14
@@ -174,7 +175,8 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/14
 # Week 10 - Neural Networks / Final Project Proposals - 4/13/14
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
-* p5.js examples coming soon
+* Additional
+   * [K-Means Clustering](https://www.youtube.com/watch?v=aiJ8II94qck)
 * Final Project Proposal Schedule: TBD
 
 Week 11 - User Testing Week - 4/20/14
