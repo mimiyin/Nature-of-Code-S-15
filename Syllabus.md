@@ -188,3 +188,15 @@ Week 11 - User Testing Week - 4/20/14
 Week 12 - Final Project Presentations - 4/27/14
 -----------------------------------------------
 * Presentation Schedule and Guidelines TBA
+
+
+Rules of Play
+-----------------------------------------------
+* Be on time. Close laptops during class presentations. Participate!
+* Grading:
+   * 40% Quality of assignments
+   * 20% Class Participation
+   * 20% Final project
+   * According to ITP:
+      * 2 latenesses of more than 15 minutes counts as an absence.
+      * More than 2 absences is grounds for failure.
