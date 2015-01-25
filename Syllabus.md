@@ -142,7 +142,9 @@ Week 8 - Cellular Automata / Fractals - 3/30/14
     * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp07_CA)
     * [A New Kind of Science](http://www.wolframscience.com/nksonline/toc.html)
     * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+* Resources
     * [Original Game of Life Scientific American Article](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)
+    * [Conway's Game of Life on Youtube](https://www.youtube.com/watch?v=CgOcEZinQ2I)
     * [2D Water Ripples CA](http://freespace.virgin.net/hugo.elias/graphics/x_water.htm)
 * Fractals
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
