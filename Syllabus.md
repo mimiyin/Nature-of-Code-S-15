@@ -155,6 +155,7 @@ Week 8 - Cellular Automata / Fractals - 3/30/14
    * [Toby Schachman's Recursive Drawing](http://recursivedrawing.com/)
    * [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
    * [L-Systems in Computational Beauty of Nature](http://books.google.com/books?id=0aUhuv7fjxMC&pg=PA78)
+   * [Understanding Segregation Through a Simulation](http://flowingdata.com/2014/12/09/understanding-segregation-with-a-simulation/)
 *  Assignment: Final Project Proposal.
    * Prepare a final project proposal.  [Guidelines and schedule are here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals).
 
