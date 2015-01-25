@@ -192,7 +192,7 @@ Week 12 - Final Project Presentations - 4/27/14
 
 Rules of Play
 -----------------------------------------------
-* Be on time. Close laptops during class presentations. Participate!
+* Be on time. Do the reading/video watching. Review the example problems. Submit assignments by the morning of class. Come prepared with questions. Put away screens during others' presentations. Participate!
 * Grading:
    * 40% Quality of assignments
    * 20% Class Participation
