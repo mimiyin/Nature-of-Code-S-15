@@ -194,8 +194,8 @@ Rules of Play
 -----------------------------------------------
 * Be on time. Do the reading/video watching. Review the example problems. Submit assignments by the morning of class. Come prepared with questions. Put away screens during others' presentations. Participate!
 * Grading:
-   * 40% Quality of assignments
    * 40% Class Participation
+   * 40% Quality of assignments
    * 20% Final project
    * According to ITP:
       * 2 latenesses of more than 15 minutes counts as an absence.
