@@ -1,4 +1,4 @@
-The Nature of Code (Spring 2014)
+The Nature of Code (Spring 2015)
 ================================
 
 Class Info
