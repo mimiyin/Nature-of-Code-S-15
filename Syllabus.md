@@ -49,7 +49,19 @@ Week 1 - Introduction - 1/26/14
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
     * [Probability Theory](http://www.probabilitytheory.info/)
 
-Week 2 - Oscillation - 2/2/14
+Week 2 - Forces - 2/2/14
+------------------------
+* [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
+* [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
+* Assignment: TBD
+* Supplemental Reading
+    * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
+    * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
+    * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
+
+Week 3 - Oscillation - 2/9/14
 -------------------------------
 * [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
@@ -61,18 +73,6 @@ Week 2 - Oscillation - 2/2/14
     * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
-
-Week 3 - Forces - 2/9/14
-------------------------
-* [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
-* [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
-* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
-* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* Assignment: TBD
-* Supplemental Reading
-    * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
-    * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
-    * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
 
 ### No class, 2/16/14, Presidents Day
 
