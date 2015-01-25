@@ -144,6 +144,7 @@ Week 8 - Cellular Automata / Fractals - 3/30/14
     * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
     * [Original Game of Life Scientific American Article](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm)
     * [2D Water Ripples CA](http://freespace.virgin.net/hugo.elias/graphics/x_water.htm)
+    * [Java Port of 2D Water Ripples](http://neilwallis.com/projects/java/water/index.php)
     * [Understanding Segregation Through a Simulation](http://flowingdata.com/2014/12/09/understanding-segregation-with-a-simulation/)
 * Fractals
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
