@@ -4,7 +4,7 @@ The Nature of Code (Spring 2015)
 Class Info
 ----------
 * Mimi Yin: mimi.yin@nyu.edu
-* Mondays, 12:10pm to 3:05pm in Room 15
+* Mondays, 12:10pm to 3:05pm in Room 20
 * [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
 * [Sign up for Mailing List](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
 
