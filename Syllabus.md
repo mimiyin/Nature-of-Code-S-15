@@ -43,7 +43,7 @@ Week 1 - Introduction - 1/26/14
     * p5.js examples coming soon
 * Assignment
     * [Sign up for class mailing list](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
-    * [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-1).
+    * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-1-Assignment).
  * Supplemental Reading
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/) Chapter 5
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
