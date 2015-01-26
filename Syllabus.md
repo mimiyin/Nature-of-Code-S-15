@@ -4,7 +4,7 @@ The Nature of Code (Spring 2015)
 Class Info
 ----------
 * Mimi Yin: mimi.yin@nyu.edu
-* Mondays, 12:10pm to 3:05pm in Room 20
+* Mondays, 12:10pm to 3:05pm in Room 15
 * [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
 * [Sign up for Mailing List](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
 
@@ -25,7 +25,7 @@ Related Reading and Watching
 * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20)
 * [Form and Code](http://formandcode.com/)
 
-Week 1 - Introduction - 1/26/14
+Week 1 - Introduction - 1/26/15
 -------------------------------
 
 * Class Intro / Overview
@@ -49,7 +49,7 @@ Week 1 - Introduction - 1/26/14
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
     * [Probability Theory](http://www.probabilitytheory.info/)
 
-Week 2 - Forces - 2/2/14
+Week 2 - Forces - 2/2/15
 ------------------------
 * [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
@@ -61,7 +61,7 @@ Week 2 - Forces - 2/2/14
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
 
-Week 3 - Oscillation - 2/9/14
+Week 3 - Oscillation - 2/9/15
 -------------------------------
 * [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
@@ -74,9 +74,9 @@ Week 3 - Oscillation - 2/9/14
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
 
-### No class, 2/16/14, Presidents Day
+### No class, 2/16/15, Presidents Day
 
-Week 4 - Systems - 2/23/14
+Week 4 - Systems - 2/23/15
 -------------------------------
 * [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
@@ -90,7 +90,11 @@ Week 4 - Systems - 2/23/14
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
     * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
-Week 5 - Autonomous Agents - 3/2/14
+[Mark Stock](http://markjstock.com/) - Thursday 2/26/15 in Room 50
+------------------------------------------------------------------
+* [Presentation of Work]((http://markjstock.com/)) and Technical Workshop
+
+Week 5 - Autonomous Agents - 3/2/15
 -----------------------------------
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp6_agents)
@@ -103,7 +107,7 @@ Week 5 - Autonomous Agents - 3/2/14
     * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 * Your midterm project is due next class.  Guidelines: https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm
 
-Week 6 - Physics Libraries - 3/9/14
+Week 6 - Physics Libraries - 3/9/15
 -----------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
@@ -127,13 +131,13 @@ Week 6 - Physics Libraries - 3/9/14
 * Assignment: TBD
 
 
-### No class, 3/16/14, Spring Break
+### No class, 3/16/15, Spring Break
 
-Week 7 - Mid-Semester Project Presentations - 3/23/14
+Week 7 - Mid-Semester Project Presentations - 3/23/15
 -----------------------------------------------------
 * [Documentation Links and Presentation Order](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm)
 
-Week 8 - Cellular Automata / Fractals - 3/30/14
+Week 8 - Cellular Automata / Fractals - 3/30/15
 -----------------------------------------------
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
@@ -160,7 +164,7 @@ Week 8 - Cellular Automata / Fractals - 3/30/14
 *  Assignment: Final Project Proposal.
    * Prepare a final project proposal.  [Guidelines and schedule are here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals).
 
-Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/14
+Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/15
 --------------------------------------------------------------
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp9_ga)
@@ -174,18 +178,18 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/14
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
 * [Final Project Proposal Schedule](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals)
 
-# Week 10 - Neural Networks / Final Project Proposals - 4/13/14
+# Week 10 - Neural Networks / Final Project Proposals - 4/13/15
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
 * Additional
    * [K-Means Clustering](https://www.youtube.com/watch?v=aiJ8II94qck)
 * Final Project Proposal Schedule: TBD
 
-Week 11 - User Testing Week - 4/20/14
+Week 11 - User Testing Week - 4/20/15
 -------------------------------------
 * This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-Week 12 - Final Project Presentations - 4/27/14
+Week 12 - Final Project Presentations - 4/27/15
 -----------------------------------------------
 * Presentation Schedule and Guidelines TBA
 
