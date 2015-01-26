@@ -162,7 +162,7 @@ Week 8 - Cellular Automata / Fractals - 3/30/15
    * [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
    * [L-Systems in Computational Beauty of Nature](http://books.google.com/books?id=0aUhuv7fjxMC&pg=PA78)
 *  Assignment: Final Project Proposal.
-   * Prepare a final project proposal.  [Guidelines and schedule are here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals).
+   * Prepare a final project proposal.  
 
 Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/15
 --------------------------------------------------------------
@@ -176,7 +176,7 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/15
     * [BoxCar2D](http://boxcar2d.com/)
     * [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html)
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
-* [Final Project Proposal Schedule](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals)
+* Final Project Proposal Schedule: TBD
 
 # Week 10 - Neural Networks / Final Project Proposals - 4/13/15
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
