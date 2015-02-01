@@ -55,7 +55,7 @@ Week 2 - Forces - 2/2/15
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
-* Assignment: TBD
+* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-2-Assignment)
 * Supplemental Reading
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
