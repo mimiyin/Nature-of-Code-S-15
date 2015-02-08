@@ -72,7 +72,6 @@ Week 3 - Oscillation - 2/9/15
 * [Demo of Conservation of Energy using a Pendulum](https://www.youtube.com/watch?v=4a0FbQdH3dY#t=1465)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-3-Assignment)
 * Supplemental reading
-    * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
 
