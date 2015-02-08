@@ -68,7 +68,7 @@ Week 3 - Oscillation - 2/9/15
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
-* Assignment: TBD
+* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-3-Assignment)
 * Supplemental reading
     * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
