@@ -106,7 +106,8 @@ Week 5 - Autonomous Agents - 3/2/15
     * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
     * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
     * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
-* Your midterm project is due next class.  Guidelines: https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm
+    * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
+* [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-5-Assignment)
 
 Week 6 - Physics Libraries - 3/9/15
 -----------------------------------
@@ -129,7 +130,7 @@ Week 6 - Physics Libraries - 3/9/15
     * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
-* Assignment: TBD
+* Assignment: Your mid-term assignment is due after Spring Break.
 
 
 ### No class, 3/16/15, Spring Break
