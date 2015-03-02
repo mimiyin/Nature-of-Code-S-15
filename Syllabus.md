@@ -132,6 +132,9 @@ Special Session - Physics Libraries - 3/6/15 - Room 20
 * Other libraries?
 * Assignment: Your mid-term assignment is due after Spring Break.
 
+Week 6 - Frankenstein Sketches - 3/9/15
+------------------------------------------------------
+* Workshopping Complex Programs
 
 ### No class, 3/16/15, Spring Break
 
