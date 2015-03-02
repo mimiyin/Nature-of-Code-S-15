@@ -109,8 +109,8 @@ Week 5 - Autonomous Agents - 3/2/15
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Week-5-Assignment)
 
-Week 6 - Physics Libraries - 3/9/15
------------------------------------
+Special Session - Physics Libraries - 3/5/15 - Room 20
+------------------------------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
     * [Box2D web site](http://box2d.org/)
