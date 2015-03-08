@@ -130,11 +130,11 @@ Special Session - Physics Libraries - 3/6/15 - Room 20
     * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
-* Assignment: Your mid-term assignment is due after Spring Break.
 
 Week 6 - Frankenstein Sketches - 3/9/15
 ------------------------------------------------------
 * Workshopping Complex Programs
+* Assignment: [Mid-term](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Midterm-Assignment)
 
 ### No class, 3/16/15, Spring Break
 
