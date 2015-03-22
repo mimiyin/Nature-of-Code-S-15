@@ -183,7 +183,8 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/15
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
 * Final Project Proposal Schedule: TBD
 
-# Week 10 - Neural Networks / Final Project Proposals - 4/13/15
+Week 10 - Neural Networks / Final Project Proposals - 4/13/15
+---------------------------------------------------------------
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
 * Additional
