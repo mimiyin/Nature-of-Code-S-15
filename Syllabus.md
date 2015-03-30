@@ -166,8 +166,9 @@ Week 8 - Cellular Automata / Fractals - 3/30/15
    * [Toby Schachman's Recursive Drawing](http://recursivedrawing.com/)
    * [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
    * [L-Systems in Computational Beauty of Nature](http://books.google.com/books?id=0aUhuv7fjxMC&pg=PA78)
-*  Assignment: Final Project Proposal.
-   * Prepare a final project proposal.  
+*  Assignment: 
+   * [Reading](http://natureofcode.com/book/chapter-9-the-evolution-of-code/) and [Video](http://video.natureofcode.com/) for Chapter 9: The Evolution of Code
+   *  [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Final-Project-Presentation-Guidelines).
 
 Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/15
 --------------------------------------------------------------
@@ -181,7 +182,9 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/6/15
     * [BoxCar2D](http://boxcar2d.com/)
     * [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html)
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
-* Final Project Proposal Schedule: TBD
+* Assignment: 
+   * Reading for Chapter 10: [Neural Networks](http://natureofcode.com/book/chapter-10-neural-networks/) 
+   * [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Final-Project-Presentation-Guidelines)
 
 Week 10 - Neural Networks / Final Project Proposals - 4/13/15
 ---------------------------------------------------------------
@@ -189,7 +192,7 @@ Week 10 - Neural Networks / Final Project Proposals - 4/13/15
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
 * Additional
    * [K-Means Clustering](https://www.youtube.com/watch?v=aiJ8II94qck)
-* Final Project Proposal Schedule: TBD
+* Assignment: Prepare for User Testing session next week.
 
 Week 11 - User Testing Week - 4/20/15
 -------------------------------------
