@@ -200,6 +200,7 @@ Week 11 - User Testing Week - 4/20/15
 
 Week 12 - Final Project Presentations - 4/27/15
 -----------------------------------------------
+* [Presentation Guidelines](https://github.com/mimiyin/Nature-of-Code-S-15/wiki/Final-Project-Presentation-Guidelines)
 * Presentation Schedule and Guidelines TBA
 
 
