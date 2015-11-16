@@ -10,7 +10,7 @@ Class Info
 
 Resources
 ---------
-* [All coures videos](http://video.natureofcode.com/)
+* [All coures videos](https://vimeo.com/channels/natureofcode)
 * [Online textbook](http://natureofcode.com/book/)
 * [All code examples in Processing](https://github.com/shiffman/The-Nature-of-Code-Examples)
 * [Code examples ported to p5.js](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
